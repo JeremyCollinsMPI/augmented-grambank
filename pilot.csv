@@ -1,0 +1,102 @@
+Language ID,Grambank name,Source variety,System,Q1 Material,Q2 Some numerals,Q3 Numeral domain,Q4 Demonstratives,Q5 Adjectives,Q6 Definite use,Q7 Optionality,Review status,Evidence IDs,Optionality conditions,Variety / mapping note,Macroarea,Family,Selection
+acol1236,Acoli,Acoli,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Africa,Nilotic,Diversity selection
+asoa1238,Asoa,Asoa,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Africa,Central Sudanic,Diversity selection
+bamb1262,Bambassi,Bambassi,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Africa,Blue Nile Mao,Diversity selection
+bent1238,Ben Tey Dogon,Ben Tey Dogon,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Africa,Dogon,Diversity selection
+cent2050,Central Kanuri,Central Kanuri,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Africa,Saharan,Diversity selection
+cici1237,Cicipu,Cicipu,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Africa,Atlantic-Congo,Anchor: question contrast or source access
+dagi1241,Dagik,Dagik,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Africa,Narrow Talodi,Diversity selection
+dizi1235,Dizin,Dizin,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Africa,Dizoid,Diversity selection
+gaam1241,Gaam,Gaam,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Africa,Eastern Jebel,Diversity selection
+goem1240,Goemai,Goemai,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Africa,Afro-Asiatic,Anchor: question contrast or source access
+gyel1242,Gyele,"Gyeli, Ngolo",Noun-class agreement,Yes,Yes,Simple 1–5; complex numeral scope needs review,Unknown,Unknown,Unknown,Unknown,Partially coded,E030; E031; E032,,Source variety is narrower than the Gyele entry.,Africa,Atlantic-Congo,Anchor: question contrast or source access
+kafa1242,Kafa,Kafa,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Africa,Ta-Ne-Omotic,Diversity selection
+kuna1268,Kunama,Kunama,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Africa,,Diversity selection
+kxoe1243,Kxoe,Kxoe,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Africa,Khoe-Kwadi,Diversity selection
+loma1260,Loma (Liberia),Loma (Liberia),Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Africa,Mande,Diversity selection
+maba1277,Maba (Chad),Maba (Chad),Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Africa,Maban,Diversity selection
+murl1244,Murle,Murle,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Africa,Surmic,Diversity selection
+tama1331,Tama (Chad),Tama (Chad),Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Africa,Tamaic,Diversity selection
+tega1236,Tegali,Tegali,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Africa,Rashad,Diversity selection
+uduk1239,Uduk,Uduk,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Africa,Koman,Diversity selection
+abkh1244,Abkhaz,Abkhaz,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Eurasia,Abkhaz-Adyge,Anchor: question contrast or source access
+aghw1237,Aghwan,Aghwan,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Eurasia,Nakh-Daghestanian,Diversity selection
+bash1264,Bashkir,Bashkir,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Eurasia,Turkic,Diversity selection
+berj1234,Berjozovka,Berjozovka,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Eurasia,Tungusic,Diversity selection
+buru1296,Burushaski,Burushaski,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Eurasia,,Diversity selection
+chuk1273,Chukchi,Chukchi,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Eurasia,Chukotko-Kamchatkan,Diversity selection
+stan1290,French,French,Gender agreement,Yes,Unknown,"1, including agreeing final 1 in compounds",Yes,Yes,No,Obligatory,Partially coded,E001; E002; E003; E004; E005; E006,,,Eurasia,Indo-European,Anchor: question contrast or source access
+halh1238,Halh Mongolian,Halh Mongolian,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Eurasia,Mongolic-Khitan,Diversity selection
+hrus1242,Hruso,Hruso,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Eurasia,,Diversity selection
+japa1238,Japanese Sign Language,Japanese Sign Language,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Eurasia,Sign Language,Diversity selection
+japh1234,Japhug,Japhug,Individual counted nouns,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Partially coded,E035,,,Eurasia,Sino-Tibetan,Anchor: question contrast or source access
+jeha1242,Jehai,Jehai,Optional numeral classifiers,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,Optional,Partially coded,E012; E013,Classifier omission licensed in counting; discourse and noun effects need further study.,,Eurasia,Austroasiatic,Anchor: question contrast or source access
+kusu1250,Kusunda,Kusunda,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Eurasia,,Diversity selection
+mand1415,Mandarin Chinese,Mandarin Chinese,Numeral classifiers,Yes,Unknown,Unknown,Yes,Unknown,No,Unknown,Partially coded,E007; E008; E009,,,Eurasia,Sino-Tibetan,Anchor: question contrast or source access
+pite1240,Pite Saami,Pite Saami,No qualifying system identified,No,NA,NA,NA,NA,NA,NA,All questions resolved; review inference,E019,,,Eurasia,Uralic,Anchor: question contrast or source access
+saur1249,Sauria Paharia,Sauria Paharia,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Eurasia,Dravidian,Diversity selection
+tara1319,Tarama-Minna,Tarama-Minna,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Eurasia,Japonic,Diversity selection
+yakk1236,Yakkha,Yakkha,Native numeral classifier,Yes,Yes,Native 2 and 3,No,Unknown,Unknown,Unknown,Partially coded,E014; E015; E016; E017,,,Eurasia,Sino-Tibetan,Anchor: question contrast or source access
+youn1235,Younuo Bunu,Younuo Bunu,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Eurasia,Hmong-Mien,Diversity selection
+yuec1235,Yue Chinese,Cantonese in Cheng & Sybesma (1999),Numeral classifiers,Yes,Unknown,Unknown,Unknown,Unknown,Yes,Unknown,Partially coded,E010; E011,,Evidence does not establish all varieties subsumed under Yue Chinese.,Eurasia,Sino-Tibetan,Anchor: question contrast or source access
+adan1251,Adang,Adang,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Papunesia,Timor-Alor-Pantar,Diversity selection
+agob1244,Agob-Ende-Kawam,Agob-Ende-Kawam,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Papunesia,Pahoturi,Diversity selection
+amam1246,Amam,Amam,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Papunesia,Goilalan,Diversity selection
+ambu1247,Ambulas,Ambulas,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Papunesia,Ndu,Diversity selection
+anga1290,Angaataha,Angaataha,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Papunesia,Angan,Diversity selection
+wara1294,Anta-Komnzo-Wára-Wérè-Kémä,"Komnzo, Rouku",No qualifying system identified,No,NA,NA,NA,NA,NA,NA,All questions resolved; review inference,E020,,Narrower than the Grambank entry Anta-Komnzo-Wára-Wérè-Kémä; do not generalize automatically.,Papunesia,Yam,Anchor: question contrast or source access
+bine1240,Bine,Bine,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Papunesia,Eastern Trans-Fly,Diversity selection
+esee1247,Ese,Ese,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Papunesia,Koiarian,Diversity selection
+kaga1256,Kagayanen,Kagayanen,Numeral classifiers,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,Optional,Partially coded,E028; E029,Optional classifier slot in the numeral construction; lexical exceptions not yet audited.,,Papunesia,Austronesian,Anchor: question contrast or source access
+kara1499,Kalamang,Kalamang,Numeral-prefix classifiers,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,Obligatory,Partially coded,E033; E034,"Obligatory for classifier-selecting noun classes; other nouns can lack classifiers. This is a noun-domain restriction, not free optionality.",,Papunesia,West Bomberai,Anchor: question contrast or source access
+nucl1593,Kwomtari,Kwomtari,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Papunesia,Kwomtari-Nai,Diversity selection
+mauw1238,Mauwake,Mauwake,No qualifying system identified,No,NA,NA,NA,NA,NA,NA,All questions resolved; review inference,E021,,,Papunesia,Nuclear Trans New Guinea,Anchor: question contrast or source access
+nami1256,Namia,Namia,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Papunesia,Sepik,Diversity selection
+nucl1633,Nimboran,Nimboran,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Papunesia,Nimboranic,Diversity selection
+oloo1241,Olo,Olo,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Papunesia,Nuclear Torricelli,Diversity selection
+papu1250,Papuan Malay,Papuan Malay,Animal classifier,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Partially coded,E026,,,Papunesia,Austronesian,Anchor: question contrast or source access
+rapa1244,Rapanui,Rapanui,Human-counting particle,Yes,Yes,Below 10; productive status with 1 needs review,Unknown,Unknown,Unknown,Context-dependent,Partially coded,E022; E023; E024; E025,Category-specific hoko can alternate with general numeral particles; do not equate replacement with bare-numeral omission.,,Papunesia,Austronesian,Anchor: question contrast or source access
+rian1263,Riantana,Riantana,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Papunesia,Kolopom,Diversity selection
+samo1303,Samo,Samo,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Papunesia,East Strickland,Diversity selection
+nucl1454,Yawa,Yawa,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Papunesia,Yawa-Saweru,Diversity selection
+bard1255,Bardi,Bardi,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Australia,Nyulnyulan,Anchor: question contrast or source access
+gaga1251,Gaagudju,Gaagudju,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Australia,,Diversity selection
+djam1255,Jaminjung-Ngaliwurru,Jaminjung-Ngaliwurru,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Australia,Mirndi,Anchor: question contrast or source access
+lard1243,Lardil,Lardil,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Australia,Tangkic,Diversity selection
+mara1386,Maranunggu,Maranunggu,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Australia,Western Daly,Diversity selection
+miri1266,Miriwung,Miriwung,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Australia,Jarrakan,Diversity selection
+mull1237,Mullukmulluk,Mullukmulluk,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Australia,Northern Daly,Diversity selection
+thay1249,Thayore,Thayore,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Australia,Pama-Nyungan,Diversity selection
+wamb1258,Wambayan,Wambayan,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Australia,Mirndi,Anchor: question contrast or source access
+wurl1240,Wurla,Wurla,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,Australia,Worrorran,Diversity selection
+west2635,Akateko,Akateko,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,North America,Mayan,Diversity selection
+cent2127,Central Alaskan Yupik,Central Alaskan Yupik,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,North America,Eskimo-Aleut,Diversity selection
+crow1244,Crow,Crow,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,North America,Siouan,Diversity selection
+high1278,Highland Puebla Nahuatl,Highland Puebla Nahuatl,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,North America,Uto-Aztecan,Diversity selection
+kiow1266,Kiowa,Kiowa,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,North America,Kiowa-Tanoan,Diversity selection
+maya1285,Mayangna,Mayangna,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,North America,Misumalpan,Diversity selection
+nort2952,Northeast Maidu,Northeast Maidu,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,North America,Maiduan,Diversity selection
+lush1252,Northern Lushootseed,Northern Lushootseed,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,North America,Salishan,Diversity selection
+nuuc1236,Nuu-chah-nulth,Nuu-chah-nulth,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,North America,Wakashan,Diversity selection
+papa1238,Papantla Totonac,Papantla Totonac,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,North America,Totonacan,Diversity selection
+quil1240,Quileute,Quileute,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,North America,Chimakuan,Diversity selection
+rama1270,Rama,Rama,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,North America,Chibchan,Diversity selection
+sier1250,Sierra de Juárez Zapotec,Sierra de Juárez Zapotec,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,North America,Otomanguean,Diversity selection
+sout2985,Southern Sierra Miwok,Southern Sierra Miwok,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,North America,Miwok-Costanoan,Diversity selection
+wapp1239,Wappo,Wappo,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,North America,Yuki-Wappo,Anchor: question contrast or source access
+amah1246,Amahuaca,Amahuaca,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,South America,Pano-Tacanan,Diversity selection
+bora1263,Bora,Bora,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,South America,Boran,Anchor: question contrast or source access
+epen1239,Epena,Epena,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,South America,Chocoan,Diversity selection
+guat1253,Guató,Guató,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,South America,,Diversity selection
+hual1241,Huallaga Huánuco Quechua,Huallaga Huánuco Quechua,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,South America,Quechuan,Diversity selection
+hupd1244,Hup,Hup,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,South America,Naduhup,Anchor: question contrast or source access
+iqui1243,Iquito,Iquito,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,South America,Zaparoan,Diversity selection
+guan1269,Kotiria,Kotiria,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,South America,Tucanoan,Diversity selection
+mini1256,Minica Huitoto,Minica Huitoto,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,South America,Huitotoan,Diversity selection
+movi1243,Movima,Movima,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,South America,,Diversity selection
+paun1241,Paunaka,Paunaka,Invariant numeral material excluded,No,NA,NA,NA,NA,NA,NA,All questions resolved; review inference,E027,,,South America,Arawakan,Anchor: question contrast or source access
+trum1247,Trumai,Trumai,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,South America,,Diversity selection
+xava1240,Xavánte,Xavánte,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,South America,Nuclear-Macro-Je,Diversity selection
+yura1255,Yuracaré,Yuracaré,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,South America,,Diversity selection
+yama1264,Yámana,Yámana,Not yet identified,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Not yet coded,,,,South America,,Diversity selection
+yakk1236,Yakkha,Yakkha,Borrowed numeral classifiers,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Partially coded,E018,,,Eurasia,Sino-Tibetan,Anchor: question contrast or source access

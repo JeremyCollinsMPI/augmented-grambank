@@ -1,0 +1,32 @@
+Item,Definition
+Version,Ten-question coding initialized 2026-09-21. Original sheets retained unchanged as legacy evidence. Current coding is in Coding v2.
+Status,"Reviewed: Kalamang, Kagayanen, Paunaka, Gyeli, Yakkha, Cantonese, Mandarin, Pohnpeian, Jahai, Papuan Malay, Rapa Nui, Mauwake, Komnzo, Pite Saami, Goemai, French, Cicipu, Uduk, Gaahmg, Dizin, Ben Tey, Ben Tey. Reviewed includes unresolved fields and source limitations. Next: another uncoded pilot language. Kusunda reviewed 2026-10-01. Sauria Paharia reviewed 2026-10-01. Adang reviewed 2026-10-02. Huallaga Huánuco Quechua reviewed 2026-10-02. Bambassi reviewed 2026-10-02. Acoli reviewed 2026-10-03. Dagik reviewed 2026-10-03. Burushaski reviewed 2026-10-03. Chukchi reviewed 2026-10-04. Abkhaz reviewed 2026-10-04. Wambaya reviewed 2026-10-04. Asoa reviewed 2026-10-05. Central Kanuri reviewed 2026-10-05. Kafa reviewed 2026-10-05. Kunama reviewed 2026-10-12. Kxoe reviewed 2026-10-12. Loma reviewed 2026-10-13. Maba reviewed 2026-10-13. Iquito reviewed 2026-10-16; Q9 unresolved. Wappo reviewed 2026-10-29. Bashkir, Halh Mongolian and Trumai reviewed 2026-10-30. Bardi, Jaminjung-Ngaliwurru and Olo reviewed 2026-10-31."
+Codes,"1=yes; 0=no; ?=unknown; NA=dependency inapplicable. Unknown dependencies remain ?. Q5 uses 1 for supported numeral list availability, with actual values in text. Q10 uses count/range/lower bound, ? or NA."
+Q1,Noun-conditioned material with cardinal numerals?
+Q2,Q1=1: Applies only to a subset of count nouns?
+Q3,Q2=1: Marked noun types more numerous than unmarked types?
+Q4,Q1=1: Restricted to certain cardinal numerals?
+Q5,Q4=1: Which numerals? Code marks list availability; separate text gives values.
+Q6,Q1=1: Same categories with demonstratives?
+Q7,Q1=1: Same categories with adjectives/property-word constructions?
+Q8,Q1=1: Same material also a definite marker?
+Q9,"Q1=1: Can marking be omitted with noun, interpretation and construction held fixed?"
+Q10,Q1=1: Number of numeral-marking categories (exact/range/lower bound).
+Scope,Ordinary cardinal counting with overt count nouns; exclude ordinary measure units and invariant particles. Retain system/variety distinctions.
+Migration,"Original Q1→Q1, Q2→Q4, Q3→Q5 text, Q4→Q6, Q5→Q7, Q6→Q8, Q7→Q9. Original Evidence IDs remain traceable. New noun-domain answers are not inferred from optionality."
+Counting convention,Count source-supported categories relevant to numeral marking; distinguish classifier forms from fixed genders and separate singular/plural classes from paired genders. Do not count allomorphs separately.
+Kagayanen inventory,"5+ counts buok, bilog, panid, puon, naet, including the general classifier. Listed as examples rather than a complete inventory; separately listed measures excluded."
+Source scope,Pebley & Payne §1.4 draws on Cagayancillo and mainland/migrant communities. This record does not establish uniformity across all varieties.
+Evidence standards,"Explicit statements, comparisons and coverage inferences distinguished. Negative inferences allowed, but missing evidence is never automatically 0. Q3 refers to lexical types, not corpus frequency."
+Checkpoint,"48 languages reviewed. Bardi, Jaminjung-Ngaliwurru and Olo added 2026-10-31. Olo Q9 remains unresolved."
+Paunaka distinction,"The lexicalized -na in one never varies by counted item and is excluded. A separate record captures optional human person/number marking on numerals. Q10=2 is human versus other/default, not a classifier inventory."
+Gyeli category count,Q10=9 counts the agreement classes distinguished across numeral 1–5: five singular-compatible classes with one and four plural-compatible classes with 2–5. It does not count syncretic prefix shapes or the six major lexical genders.
+Yakkha systems,Native 2–3 uses human -paŋ versus nonhuman classifier-position =ci (Q10=2). Borrowed Nepali numerals above 3 use jana versus (w)oʈa (Q10=2). Ordinary measures are excluded.
+Pohnpeian inventory,"Q10=28: 29 listed suffixal numeral series minus event counter -pak “times”; class-neutral ehd excluded. Full-PDF download was login-gated, so the exact table was checked through a page-linked transcription of Rehg & Sohl pp.127–140."
+Targeted source check,"Before leaving a question unknown owing to source coverage, attempt at least one targeted primary source or relevant grammar section; record source tried and access limits. Distinguish ordinary and restricted constructions; missing evidence is not a negative answer."
+Cantonese Q7 scope,"1 denotes attested restricted adjective+classifier construction (big/small), not general agreement on adjectives. Ordinary adjective+(ge)+noun construction has no category marking; retain both facts."
+Q11,"Follow-up to Q7: If Q7=1, is category marking restricted to particular adjectives/property words? 1=lexical subset; 0=general across the class; ?=unknown; NA if Q7=0 or Q1=0. Unknown dependencies remain ?."
+Q11 adjective text,List source-supported adjectives/semantic classes and construction conditions; distinguish exhaustive versus illustrative lists. Construction restrictions alone do not establish a lexical restriction.
+Q11 migration,"Added 2026-09-23 without renumbering Q1–Q10. Cantonese=1 (big/small); prior records initialized to ? or justified dependency NA. Original data unchanged. Q7=1 denotes at least one qualifying construction, not necessarily all adjectives."
+Q11 prior-language review 2026-09-23,"French=0 (general agreement; surface syncretism/invariant exceptions noted); Mandarin=NA after Q7=0 targeted inference; Paunaka human system=? after targeted primary-source inspection. Existing Q7=0 languages retain dependency NA: Kalamang, Kagayanen, Gyeli, Yakkha and Pohnpeian (inherits primary-source access limitation). Unresearched pilot records remain partial."
+Q11 generality convention,"0 means agreement/category marking is a general adjective rule, not that every adjective overtly distinguishes categories. Record syncretism and exceptional invariant lexemes. 1 means a restricted lexical construction such as Cantonese big/small."

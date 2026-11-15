@@ -1,0 +1,30 @@
+Item,Definition / status
+Release,Working pilot v0.1 • 20 September 2026. Research incomplete; not a completed 100-language coding.
+Coverage,100 selected Grambank entries; 101 system records; 15 languages with at least one source-backed answer; 35 substantive answer cells. Remaining questions are explicitly Unknown.
+Using the workbook,Pilot contains new answers. Evidence links each substantive answer to an inspected source passage. Source leads are unverified Grambank bibliography pointers. Grambank frame preserves original codes separately.
+Q1 • noun-conditioned material,"Do cardinal counting constructions with an overt count noun contain material or form choice conditioned by that noun’s category? Include free classifiers, agreement affixes and suppletive forms. Exclude invariant numeral particles and ordinary unit/measure words."
+Q2 • restricted numeral range,"If Q1=Yes, is the qualifying pattern restricted to some numeral values? Noun restrictions are not numeral restrictions. Unknown means the source does not establish the whole domain."
+Q3 • affected numerals,"Record numeral values, native versus borrowed systems, and compound behavior. An attested domain can be recorded provisionally while Q2 remains Unknown; it is then not an exhaustive answer."
+Q4 • demonstratives,"Does the demonstrative construction use the same noun-category system? Compare category assignments, not merely similar-looking exponents. Partial overlaps require an explanatory note."
+Q5 • adjectives,Does adjective modification use the same noun-category system? Do not infer Yes merely because the language has gender. Record the construction if adjective status is disputed.
+Q6 • definiteness,Can the same category-marking material independently serve a definite function? Shared categories on a separate definite article are insufficient. A definite use need not be its only use.
+Q7 • optionality,Obligatory = required within the stated qualifying construction/domain. Optional = omission licensed. Context-dependent = distribution or alternatives need conditions. Unknown = insufficient evidence. NA = Q1 No.
+Optionality cautions,Separate classifier omission from replacing it with a general numeral particle. A marker restricted to certain nouns can still be obligatory there. Optional plural marking is not evidence that a classifier is optional.
+Values and missingness,"Yes / No / Unknown / NA for binary questions. No is a linguistic claim, never a missing-data default. NA downstream from Q1 No inherits that answer’s evidence and uncertainty."
+Negative evidence,"Three Q1 No answers (Pite Saami, Komnzo, Mauwake) are explicitly flagged as provisional coverage inferences, not direct statements denying all classifiers. Review before quantitative analysis. Paunaka has a more direct diagnostic."
+Sources and confidence,"Evidence uses inspected descriptive passages rather than new answers mechanically derived from Grambank. Basis distinguishes explicit descriptions, comparisons and inferences. All entries still need independent scholarly review."
+Publisher source files,"GitHub links point to publisher LaTeX sources. Locators use file names and section labels, not invented printed page numbers. Repository text can differ from the published edition; inspect cited sections before publication."
+Variety mapping,"Source varieties narrower than Grambank entries are recorded explicitly, especially Cantonese, Komnzo and Gyeli. Two Yakkha records separate native and borrowed systems."
+Sample design,"Purposive, diversity-first pilot; not a probability sample. 24 anchors chosen for source suitability/contrast, then greedy family diversification within macroarea quotas. Source leads and a deterministic hash break ties."
+Macroarea quotas,Africa 20; Eurasia 20; Papunesia 20; Australia 10; North America 15; South America 15.
+Family coverage,83 named families and 10 entries without a family assignment (93 operational units). Missing family is not automatically an isolate. Metadata follows the retrieved Grambank snapshot.
+Expansion,"The frame contains 2,467 Grambank entries from the retrieved repository snapshot. Pilot selection does not establish source availability for every selected language; replace inaccessible entries transparently in later versions."
+Grambank caution,"GB057 requires obligatory numeral classifiers and excludes gender agreement; an optional classifier language can therefore have GB057=0 and Q1=Yes. GB198 is a discovery aid, not a substitute for Q1–Q7 evidence."
+Other Grambank features,GB038 demonstrative classifiers; GB171 demonstrative gender agreement; GB170 property-word gender agreement; GB172 article gender agreement. None alone establishes Q4–Q6.
+Provenance,"Grambank Consortium, grambank/grambank GitHub repository, CC BY 4.0. Retrieved 2026-09-20; repository revision observed 37f73da55cf8b426c82383f46a972bc59ce6cf76 (2026-04-13T06:36:19Z). Downloaded master snapshot; not designated a release."
+Grambank URL,https://github.com/grambank/grambank
+SHA-256 grambank_languages.csv,25042195d5fb84806fba3877fd47ad47b4946c84e32a822adcf5bb4832a5b416
+SHA-256 grambank_values.csv,b5ad64804fb092496c4447938a1a5143f502c95e0799833db97b064c13d22363
+SHA-256 grambank_parameters.csv,ff5a675e6e2417b6e1746230b6649429be688f4e16df0da99bbabe4eff52dc80
+SHA-256 grambank_sources.bib,b4891bea9f39d8ceda0c68d3d040d329e046e8b83aabffc3fe1142a362b36378
+Next work,"Resolve missing questions in inspected languages, check compound domains and optionality conditions, and retrieve descriptive sources for the remaining selected entries. The 100-language target remains unfinished."
